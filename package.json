@@ -1,0 +1,44 @@
+{
+  "name": "i-latinise",
+  "version": "0.1.0",
+  "description": "Latinise text",
+  "keywords": [
+    "latinise"
+  ],
+  "author": {
+    "name": "i-cloudware",
+    "email": "george@i-cloudware.com",
+    "url": "http://i-cloudware.com/"
+  },
+  "homepage": "http://i-cloudware.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icloudware/i-error-handler.git"
+  },
+  "bugs": {
+    "url": "http://github.com//icloudware/i-error-handler/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+  },
+  "readme": "latinise text",
+  "readmeFilename": "README.md",
+  "_id": "passport@0.2.0",
+  "dist": {
+  },
+  "_from": "i-latinise@0.1.0",
+  "_resolved": "https://registry.npmjs.org/i-latinise/-/i-latinise-0.1.0.tgz"
+}
