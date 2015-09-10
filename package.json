@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ngorror/i-error-handler.git"
+    "url": "git://github.com/ngorror/i-latinise.git"
   },
   "bugs": {
-    "url": "http://github.com/ngorror/i-error-handler/issues"
+    "url": "http://github.com/ngorror/i-latinise/issues"
   },
   "licenses": [
     {
