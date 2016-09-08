@@ -1,6 +1,6 @@
 {
   "name": "i-latinise",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Latinise text",
   "keywords": [
     "latinise"
@@ -34,9 +34,9 @@
   },
   "readme": "latinise text",
   "readmeFilename": "README.md",
-  "_id": "i-latinise@0.1.0",
+  "_id": "i-latinise@0.1.1",
   "dist": {
   },
-  "_from": "i-latinise@0.1.0",
-  "_resolved": "https://registry.npmjs.org/i-latinise/-/i-latinise-0.1.0.tgz"
+  "_from": "i-latinise@0.1.1",
+  "_resolved": "https://registry.npmjs.org/i-latinise/-/i-latinise-0.1.1.tgz"
 }
